@@ -6,3 +6,4 @@ Zero Ideas, Zero Worries!
 
 ## Try it out!
 Here's the link if you want to try it out
+https://next-world-trip-inky.vercel.app
