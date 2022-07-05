@@ -1,0 +1,19 @@
+.cardContainer {
+  width: 200px;
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.cityName {
+  font-size: medium;
+  font-weight: 600;
+}
+
+.cityInfo {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
